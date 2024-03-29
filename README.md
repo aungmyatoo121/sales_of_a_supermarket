@@ -28,7 +28,7 @@ This repository contains a portfolio project analyzing sales data from a superma
 - Gross Margin Percentage: [DOUBLE - Gross margin percentage]
 - Gross Income: [DOUBLE - Gross income]
 - Rating: [DOUBLE - Customer satisfaction rating on a scale of 1 to 10]
-- 
+  
 
 ## Purpose and Potential Applications
 
